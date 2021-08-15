@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screwy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aidlescrumpy0000" x="0" y="0" width="370" height="633" frameX="-2" frameY="-5" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0001" x="0" y="0" width="370" height="633" frameX="-2" frameY="-5" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0002" x="370" y="0" width="350" height="632" frameX="-2" frameY="-6" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0003" x="720" y="0" width="392" height="632" frameX="-2" frameY="-6" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0004" x="1112" y="0" width="405" height="634" frameX="0" frameY="-5" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0005" x="1517" y="0" width="352" height="634" frameX="0" frameY="-5" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0006" x="1869" y="0" width="402" height="638" frameX="0" frameY="-1" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0007" x="2271" y="0" width="398" height="638" frameX="0" frameY="-1" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0008" x="2669" y="0" width="363" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0009" x="3032" y="0" width="401" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0010" x="3433" y="0" width="356" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0011" x="0" y="639" width="378" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0012" x="0" y="639" width="378" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0013" x="378" y="639" width="378" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0014" x="378" y="639" width="378" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0015" x="756" y="639" width="377" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="aidlescrumpy0016" x="756" y="639" width="377" height="639" frameX="0" frameY="0" frameWidth="405" frameHeight="639"/>
+	<SubTexture name="downscrumpy0000" x="1133" y="639" width="304" height="575" frameX="-3" frameY="-5" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="downscrumpy0001" x="1133" y="639" width="304" height="575" frameX="-3" frameY="-5" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="downscrumpy0002" x="1437" y="639" width="315" height="575" frameX="-1" frameY="-4" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="downscrumpy0003" x="1437" y="639" width="315" height="575" frameX="-1" frameY="-4" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="downscrumpy0004" x="1752" y="639" width="317" height="579" frameX="0" frameY="0" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="downscrumpy0005" x="1752" y="639" width="317" height="579" frameX="0" frameY="0" frameWidth="317" frameHeight="580"/>
+	<SubTexture name="leftscrumpy0000" x="2069" y="639" width="321" height="630" frameX="-2" frameY="-2" frameWidth="324" frameHeight="632"/>
+	<SubTexture name="leftscrumpy0001" x="2069" y="639" width="321" height="630" frameX="-2" frameY="-2" frameWidth="324" frameHeight="632"/>
+	<SubTexture name="leftscrumpy0002" x="2390" y="639" width="322" height="631" frameX="-1" frameY="-1" frameWidth="324" frameHeight="632"/>
+	<SubTexture name="leftscrumpy0003" x="2390" y="639" width="322" height="631" frameX="-1" frameY="-1" frameWidth="324" frameHeight="632"/>
+	<SubTexture name="leftscrumpy0004" x="2712" y="639" width="324" height="632"/>
+	<SubTexture name="leftscrumpy0005" x="2712" y="639" width="324" height="632"/>
+	<SubTexture name="rightscrumpy0000" x="3036" y="639" width="440" height="618" frameX="0" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="rightscrumpy0001" x="3036" y="639" width="440" height="618" frameX="0" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="rightscrumpy0002" x="3476" y="639" width="440" height="618" frameX="0" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="rightscrumpy0003" x="3476" y="639" width="440" height="618" frameX="0" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="rightscrumpy0004" x="0" y="1278" width="443" height="618" frameX="-1" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="rightscrumpy0005" x="0" y="1278" width="443" height="618" frameX="-1" frameY="0" frameWidth="444" frameHeight="618"/>
+	<SubTexture name="upscrumpy0000" x="443" y="1278" width="347" height="680" frameX="-2" frameY="0" frameWidth="353" frameHeight="682"/>
+	<SubTexture name="upscrumpy0001" x="443" y="1278" width="347" height="680" frameX="-2" frameY="0" frameWidth="353" frameHeight="682"/>
+	<SubTexture name="upscrumpy0002" x="790" y="1278" width="347" height="678" frameX="-2" frameY="-3" frameWidth="353" frameHeight="682"/>
+	<SubTexture name="upscrumpy0003" x="790" y="1278" width="347" height="678" frameX="-2" frameY="-3" frameWidth="353" frameHeight="682"/>
+	<SubTexture name="upscrumpy0004" x="1137" y="1278" width="353" height="675" frameX="0" frameY="-7" frameWidth="353" frameHeight="682"/>
+	<SubTexture name="upscrumpy0005" x="1137" y="1278" width="353" height="675" frameX="0" frameY="-7" frameWidth="353" frameHeight="682"/>
+</TextureAtlas>
